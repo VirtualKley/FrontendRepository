@@ -23,5 +23,5 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Marcas
 ![](capturasProyecto/MantenimientosPrueba/Marcas.png)
 
-## Marcas
+## Proveedor
 ![](capturasProyecto/MantenimientosPrueba/Proveedor.png)
