@@ -11,6 +11,17 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## Capturas del proyecto
-## Categorias
+## Productos Listado
+![](capturasProyecto/MantenimientosPrueba/Productos%20Listado.png)
 
-![] (capturasProyecto/MantenimientosPrueba/Categorias.png)
+## Productos Formulario
+![](capturasProyecto/MantenimientosPrueba/Productos%20Form.png)
+
+## Categorias
+![](capturasProyecto/MantenimientosPrueba/Categorias.png)
+
+## Marcas
+![](capturasProyecto/MantenimientosPrueba/Marcas.png)
+
+## Marcas
+![](capturasProyecto/MantenimientosPrueba/Proveedor.png)
