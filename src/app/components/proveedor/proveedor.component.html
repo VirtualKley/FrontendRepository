@@ -1,0 +1,10 @@
+<div class="container pt-4">
+    <div class="row">
+        <div class="col-12 col-md-5">
+            <app-form [title]="'Proveedor'" [data]="proveedor" (sendData)="saveProveedor($event)"></app-form>
+        </div>
+        <div class="col-12 col-md-7">
+            <app-list [Service]="SProveedor" (elemento)="deleteProveedor($event)" (edit)="putProveedor($event)"></app-list>
+        </div>
+    </div>
+</div>
